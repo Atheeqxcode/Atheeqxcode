@@ -71,7 +71,9 @@
       width="40"
   /></a>
 
- 
+ ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Atheeqxcode&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Atheeqxcode&theme=radical)
+
 
 
 
