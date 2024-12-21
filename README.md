@@ -50,6 +50,7 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atheeqxcode&" alt="Atheeqxcode" /></p>
 
+
   <h2>📫 Connect with me</h2>
 
 <p align="left">
@@ -71,8 +72,8 @@
       width="40"
   /></a>
 
- ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Atheeqxcode&theme=radical)
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Atheeqxcode&theme=radical)
+
+
 
 
 
