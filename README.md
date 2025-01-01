@@ -28,6 +28,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,angular,git,github,linux,npm,figma,bash,wordpress&perline=4)](https://skillicons.dev)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=atheeqxcode}&theme={black}" alt="LeetCode Badges"/>
+
 
   <h2 align="center">📊 Github Stats</h2>
   <div align = "center">
